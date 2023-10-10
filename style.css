@@ -1,6 +1,6 @@
 body{
     background: linear-gradient(to right, rgb(237, 183, 97), rgb(223, 167, 113),rgb(240, 157, 75));
-    font-family: serif;  
+    font-style: italic;
 }
 
 h1{
@@ -9,23 +9,28 @@ text-align: center;
 
 caption{
 background-color: rgb(7, 91, 7);
-padding: 2%;   
+border: 10rem;
+padding: 2rem;
+margin: auto;
+font-weight: bold;
+
 }
 
 table{
-width: 60%;
-
-}
-  
-table, th, td {
 border-collapse: collapse;
 margin: auto;
-padding: 5%;  
+
 }
 
-.tbody,.five{
-    width: 25%;
+
+td{
+color: rgb(179, 199, 184);
+padding: 2.5rem;
+margin-left: 50%;
+margin-right: 50%;
+
 }
+
 
 .one{
 background-color: black;
@@ -33,98 +38,131 @@ background-color: black;
 }
 .two{
 background-color: teal;
+
 }
 .three{
 background-color: blue;
+
 }
 .four{
 background-color: navy;
+
 }
 .five{
 background-color: lime;
+width: 25%;
 }
 .six{
 background-color: white;
+color: black;
+
 }
 .text1{
-background-color: purple;      
+background-color: purple; 
+    
 }
 .text2{
 background-color: yellow;
+
 }
 .text3{
 background-color: olive;
+
 }
 .text4{
 background-color: red;
+
 }
 .text5{
 background-color: black;
+
 }
 .text6{
 background-color: grey;
+
 }
 .line1{
 background-color:olive ;
+
 }
 .line2{
 background-color: red;
+
 }
 .line3{
-background-color: fuchsia;    
+background-color: fuchsia;
+   
 }
 .line4{
-background-color: green; 
+background-color: green;
+
+
 }
 
 
 .parr1{
 color:black
+
 }
 .parr2{
 color:teal
+
 }
 .parr4{
 color:blue
+
 }
 .parr5{
 color:navy
+
 }
 .parr5{
 color:lime;
+
 } 
 .parr6{
 color:white
+
 }
 .parr7{
 color:purple
+
 }
 .parr8{
 color:yellow
+;
 }
 .parr9{
 color:olive
+
 }
 .parr10{
 color:red
+
 }
 .parr11{
 color:maroon
+
 }   
 .parr12{
 color:grey
+
 }
 .parr13{
 color:fuchsia
+
 }
 .parr14{
 color:green
+
 }
 .parr15{
 color:aqua
+
 } 
 .parr15{
 color:silver
+
 } 
 
 .note{
